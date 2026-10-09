@@ -1,0 +1,29 @@
+body{
+    color: rgb(17, 32, 19);
+    background-color: rgb(25, 87, 24);
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+button{
+    background-color: rgb(121, 255, 80);
+    font-size: 35px;
+    border-radius: 17px;
+    color: rgb(4, 37, 9);
+    margin: 0 10px;
+    padding: 0 30px;
+}
+p{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+    color: yellow;
+}
+button:hover{
+    background: rgb(211, 105, 67);
+}
+button:active{
+    transform: scale(0.65);
+}
